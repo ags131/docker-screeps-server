@@ -10,6 +10,7 @@ If you do not have an existing server directory, just start the Docker container
 ```bash
 docker run -it --rm -v $PWD:/screeps quay.io/ags131/screeps-server init
 ```
+
 Now it's all set to run the Screeps server.
 
 ## Running the server
